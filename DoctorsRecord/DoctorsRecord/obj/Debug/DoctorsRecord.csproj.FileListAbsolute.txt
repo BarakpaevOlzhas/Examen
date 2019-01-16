@@ -1,0 +1,13 @@
+C:\Users\БаракпаевО\source\repos\DoctorsRecord\DoctorsRecord\obj\Debug\DoctorsRecord.csprojAssemblyReference.cache
+C:\Users\БаракпаевО\source\repos\DoctorsRecord\DoctorsRecord\obj\Debug\DoctorsRecord.csproj.CoreCompileInputs.cache
+C:\Users\БаракпаевО\source\repos\DoctorsRecord\DoctorsRecord\bin\Debug\DoctorsRecord.exe.config
+C:\Users\БаракпаевО\source\repos\DoctorsRecord\DoctorsRecord\bin\Debug\DoctorsRecord.exe
+C:\Users\БаракпаевО\source\repos\DoctorsRecord\DoctorsRecord\bin\Debug\DoctorsRecord.pdb
+C:\Users\БаракпаевО\source\repos\DoctorsRecord\DoctorsRecord\bin\Debug\EntityFramework.dll
+C:\Users\БаракпаевО\source\repos\DoctorsRecord\DoctorsRecord\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\БаракпаевО\source\repos\DoctorsRecord\DoctorsRecord\bin\Debug\EntityFramework.xml
+C:\Users\БаракпаевО\source\repos\DoctorsRecord\DoctorsRecord\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\БаракпаевО\source\repos\DoctorsRecord\DoctorsRecord\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\БаракпаевО\source\repos\DoctorsRecord\DoctorsRecord\obj\Debug\DoctorsRecord.csproj.CopyComplete
+C:\Users\БаракпаевО\source\repos\DoctorsRecord\DoctorsRecord\obj\Debug\DoctorsRecord.exe
+C:\Users\БаракпаевО\source\repos\DoctorsRecord\DoctorsRecord\obj\Debug\DoctorsRecord.pdb
